@@ -1,0 +1,44 @@
+# Base de données
+data.db
+*.db
+*.sqlite
+*.sqlite3
+
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environnements virtuels
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Fichiers temporaires
+*.log
+*.tmp
+*.temp
+
+# Fichiers de sauvegarde
+*.bak
+*.backup
+
+# Fichiers PDF générés
+*.pdf
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Configuration locale
+config.local.json
+secrets.json
